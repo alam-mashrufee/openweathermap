@@ -1,2 +1,2 @@
 # openweathermap
-Weather widgets using Open weather map api's JSON response.
+Weather widgets using Current weather data API from Open weather map.
